@@ -1,0 +1,1 @@
+#This is my coding assignment intended to test navigation between the Homepage and Approach on Uptake.com, using the page object model pattern.
